@@ -1,9 +1,9 @@
 {
-  "name": "listen.moe-discord-bot",
+  "name": "EspG_CreunixBot",
   "version": "0.1.0",
   "description": "The official discord bot that streams listen.moe to your server.",
   "license": "MIT",
-  "author": "Geo1088",
+  "author": "EspG_Creunix",
   "contributors": [
     {
       "name": "anonymousthing"
